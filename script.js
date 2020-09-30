@@ -1,6 +1,6 @@
 // Definitions
 
-var friends = ['Josh, ', 'Jake, ', 'Garrett, ', 'Will, ', 'Java, '];
+var friends = ['Josh, ', 'Jake, ', 'Garrett, ', 'Will, ', 'Carlton, '];
 var weapons = ['pencil ', 'machete ', 'candlestick ', 'ladel ', 'firepoker ', 'letter-opener ', 'wine bottle ', 'piano wire ', 'ink quill ', 'gun ', 'club ', 'mallet ', 'frying pan ', 'box-cutter ', 'glass ', 'toaster ', 'sword ', 'statue ', 'shoe ', 'vase ']
 var places = ['bathroom!', 'parlor!', 'study!', 'wine-cellar!', 'bedroom!', 'garage!', 'attic!', 'stables!', 'kitchen!', 'closet!'];
 
