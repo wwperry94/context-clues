@@ -6,7 +6,6 @@ for (var i = 1; i < 101; i++) {
 };
 function createH3(count) {
     var h3 = document.createElement('h3');
-    h3.setAttribute("id", count);
     h3.innerHTML = `Accusation ${count}`;
     document.body.appendChild(h3);
     h3.addEventListener('click', () => alert("I accuse " + friends[count % friends.length] + "with the " + weapons[count % weapons.length] + "in the " + places[count % places.length]));
